@@ -1,6 +1,6 @@
 {
 	"name": "eslint-config-ukumari",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Unicorn + JSDoc",
 	"main": "index.js",
 	"repository": "https://github.com/jleeothon/eslint-config-ukumari",
