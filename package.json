@@ -1,18 +1,18 @@
 {
-  "name": "eslint-config-ukumari",
-  "version": "0.1.0",
-  "description": "Unicorn + JSDoc",
-  "main": "index.js",
-  "repository": "https://github.com/jleeothon/eslint-config-ukumari",
-  "author": "Johnny Lee-Othon",
-  "license": "ISC",
-  "dependencies": {
-    "eslint-plugin-jsdoc": "^3.5.0"
-  },
-  "devDependencies": {
-    "np": "^2.20.1"
-  },
-  "peerDependencies": {
-    "eslint": ">= 3"
-  }
+	"name": "eslint-config-ukumari",
+	"version": "0.0.0",
+	"description": "Unicorn + JSDoc",
+	"main": "index.js",
+	"repository": "https://github.com/jleeothon/eslint-config-ukumari",
+	"author": "Johnny Lee-Othon",
+	"license": "ISC",
+	"dependencies": {
+		"eslint-plugin-jsdoc": "^3.5.0"
+	},
+	"devDependencies": {
+		"np": "^2.20.1"
+	},
+	"peerDependencies": {
+		"eslint": ">= 3"
+	}
 }
